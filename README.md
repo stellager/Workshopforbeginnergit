@@ -3,7 +3,7 @@ This is the readme for the workshop for git beginners by Martijn Bakker, Sijmen 
 Start here: https://github.com/Sijmen1/Workshopforbeginnergit/wiki
 
 
-What should go here?
+What should go here?xs
 ## Synopsis
 
 At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
